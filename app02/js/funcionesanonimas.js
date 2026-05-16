@@ -3,4 +3,4 @@ const saludo = (nombre) => {
 }
 
 let msg = saludo(prompt("digite su nombre:"));
-alert(msg);
+console.log(msg);
